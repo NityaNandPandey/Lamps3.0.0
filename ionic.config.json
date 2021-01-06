@@ -1,0 +1,7 @@
+{
+  "name": "Lamps3.0.0",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
